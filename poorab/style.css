@@ -1,0 +1,34 @@
+.nav-link{
+    font-weight: 600;
+    color: black;
+}
+
+.img-fluid{
+    width: 150px;
+}
+.navbar-brand{
+    font-weight: 650;
+    font-size: 25px;
+    color: black;
+}
+.Gallery{
+    color: rgb(27, 27, 227);
+}
+.write{
+    margin-right: 20px;
+}
+.img-fluids{
+    width: 170px;
+}
+.img-fluidt{
+    width: 200px;
+}
+
+.writeup{
+    font-weight: 400;
+}
+@media(min-width: 768px){
+    .image-input{
+        width: 50%;
+    }
+}
